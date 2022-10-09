@@ -1,0 +1,29 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mint-Live/contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mint-Live/contracts/issues"
+  },
+  "homepage": "https://github.com/Mint-Live/contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@superfluid-finance/ethereum-contracts": "^1.4.1",
+    "hardhat": "^2.11.2",
+    "streamr-client": "^6.0.10"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
